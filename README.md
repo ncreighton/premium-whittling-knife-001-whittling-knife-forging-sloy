@@ -1,0 +1,2 @@
+# premium-whittling-knife-001-whittling-knife-forging-sloy
+Tired of losing track of your blade's heat-treat schedule or forgetting which steel you used for your last sloyd knife? Your forge deserves a digital lab that keeps every step, spec, and sketch in one place.  The Whittling Knife Forging &amp; Sloyd Blade Craft Lab is the first Notion template purpose-built for knife makers who blend traditional forging
